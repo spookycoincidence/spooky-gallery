@@ -1,4 +1,4 @@
-![Portfolio](Portfolio.png)
+![Portfolio](Portfolio1.png)
 
 ## # Spooky Gallery – Photography Portfolio
 
@@ -40,7 +40,7 @@ npm run dev
 
 ---
 
- ![](gallery2.png) 
+ ![](gallery22.png) 
 
 ---
 
