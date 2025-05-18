@@ -43,7 +43,7 @@ export default function Home() {
     '/photos/photos/photo41.png',
     '/photos/photos/photo42.png',
     '/photos/photos/photo47.png',
-    // agregá o quitá las fotos que quieras, en el orden que desees
+    // agregá o saca fotos de la carpeta photos
   ]
 
   return (
