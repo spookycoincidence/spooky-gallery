@@ -34,6 +34,7 @@ npm run dev
 
 
 ## 📸 Screenshots
+---
 
 
  ![](gallery1.png) 
